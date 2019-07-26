@@ -7,15 +7,15 @@ You are provided with traffic data of JetRail since inception in the test file.
 
 
 <h2> a) Understanding Data:</h2>
-1) Hypothesis Generation
-2) Getting the system ready and loading the data
-3) Dataset Structure and Content
-4) Feature Extraction
-5) Exploratory Analysis
+1) Hypothesis Generation<br/>
+2) Getting the system ready and loading the data<br/>
+3) Dataset Structure and Content<br/>
+4) Feature Extraction<br/>
+5) Exploratory Analysis<br/>
 
 <h2>b) Forecasting using Multiple Modeling Techniques:</h2>
-1) Splitting the data into training and validation part
-2) Modeling techniques
-3) Introduction to ARIMA model
-4) Parameter tuning for ARIMA model
-5) SARIMAX model on daily time series
+1) Splitting the data into training and validation part<br/>
+2) Modeling techniques<br/>
+3) Introduction to ARIMA model<br/>
+4) Parameter tuning for ARIMA model<br/>
+5) SARIMAX model on daily time series<br/>
